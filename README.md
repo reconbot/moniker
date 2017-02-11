@@ -1,5 +1,7 @@
 # Moniker #
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/reconbot/moniker.svg)](https://greenkeeper.io/)
+
 A random name generator for Node.js.
 
 ## Synopsis ##
